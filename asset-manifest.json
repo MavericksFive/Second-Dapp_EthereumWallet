@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/Second-Dapp_EthereumWallet/static/css/main.2883b09f.css",
+    "main.js": "/Second-Dapp_EthereumWallet/static/js/main.a35a3a33.js",
+    "static/js/787.9cb7ff57.chunk.js": "/Second-Dapp_EthereumWallet/static/js/787.9cb7ff57.chunk.js",
+    "index.html": "/Second-Dapp_EthereumWallet/index.html",
+    "static/media/logo.svg": "/Second-Dapp_EthereumWallet/static/media/logo.a01a91e575f3d6cdae4c33a5e1725ffe.svg",
+    "main.2883b09f.css.map": "/Second-Dapp_EthereumWallet/static/css/main.2883b09f.css.map",
+    "main.a35a3a33.js.map": "/Second-Dapp_EthereumWallet/static/js/main.a35a3a33.js.map",
+    "787.9cb7ff57.chunk.js.map": "/Second-Dapp_EthereumWallet/static/js/787.9cb7ff57.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.2883b09f.css",
+    "static/js/main.a35a3a33.js"
+  ]
+}
